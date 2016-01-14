@@ -1,0 +1,1 @@
+/Applications/Word Processors and Presenters/Sublime Text.app/
